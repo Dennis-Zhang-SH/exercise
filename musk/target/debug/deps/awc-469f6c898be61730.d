@@ -1,0 +1,14 @@
+/mnt/c/Users/35984/Documents/code/qwe/musk/target/debug/deps/awc-469f6c898be61730.rmeta: /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/mnt/c/Users/35984/Documents/code/qwe/musk/target/debug/deps/awc-469f6c898be61730.d: /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs:

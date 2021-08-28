@@ -1,0 +1,23 @@
+[package]
+name = "musk"
+version = "0.1.0"
+authors = ["Dennis Zhang <359845097@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.3.16"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "time"] }
+twitter-stream = "0.13"
+serde = { version = "1.0.129", features = ["derive"]}
+serde_json = "1"
+oauth = { version = "0.5", package = "oauth1-request" }
+oauth-credentials = "0.3"
+hyper = { version = "0.14.12", features = ["client", "tcp"]}
+crossbeam-channel = "0.5"
+actix = "0.10.0"
+actix-web = "3"
+actix-web-actors = "3"
+chrono = "0.4.19"
+rand = "*"

@@ -1,0 +1,13 @@
+/mnt/c/Users/35984/Documents/code/qwe/musk/target/debug/deps/net2-e32575783bc60689.rmeta: /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/mnt/c/Users/35984/Documents/code/qwe/musk/target/debug/deps/net2-e32575783bc60689.d: /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs:
+/home/denniszhang/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs:
